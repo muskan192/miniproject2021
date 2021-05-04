@@ -1,5 +1,9 @@
 # miniproject2021
 college mini project (fooodie-bot)
+
+PLease don't chat with the bot because we have limited chats in free version.
+I have attached different code snipped for bot should be used according to requirement only.
+
 here is the code snippet for lanbot 
 for full page bot:
 <html>
